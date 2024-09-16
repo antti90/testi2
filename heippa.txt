@@ -2,4 +2,4 @@ Taas testataan
 toivottavasti
 tämä toimii
 Kyllähän tämä toimii taas!
-Kaveri päivitti tätä netissä!
+Oma muokkaus koneella!
